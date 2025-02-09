@@ -1,8 +1,8 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import {BrowserRouter} from 'react-router-dom';
-import 'C:/Users/HP/OneDrive/Desktop/MovieRecs/frontend/src/css/index.css';
-import App from 'C:/Users/HP/OneDrive/Desktop/MovieRecs/frontend/src/App.jsx';
+import './css/index.css';
+import App from './App';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
