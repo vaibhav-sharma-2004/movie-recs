@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "C:/Users/HP/OneDrive/Desktop/MovieRecs/frontend/src/css/Navbar.css"
+import "../css/NavBar.css"
 
 function NavBar() {
     return <nav className="navbar">
